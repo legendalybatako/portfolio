@@ -10,11 +10,10 @@ h1 {
   text-align: center;
 }
 .skill-icon {
-  position:absolute;
-  float:left;
+  position:relative;
   width:25%;
 }
 .skill-icon p {
   z-index:10;
-  position:absolute;
+  text-align:center;
 }
