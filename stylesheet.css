@@ -9,6 +9,9 @@ body {
 h1 {
   text-align: center;
 }
+.skill{
+  float:left;
+}
 .skill-icon {
   position:relative;
   width:25%;
