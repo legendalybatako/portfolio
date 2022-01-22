@@ -9,8 +9,11 @@ body {
 h1 {
   text-align: center;
 }
+.g-nav li{
+  display:inline-block;
+}
 .skill{
-  float:left;
+  display:flex;
 }
 .skill-icon {
   position:relative;
