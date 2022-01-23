@@ -7,6 +7,9 @@ body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
 }
+header{
+  background-color:rgba(59,154,156,1);
+}
 h1 {
   text-align: center;
 }
