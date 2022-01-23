@@ -24,6 +24,9 @@ h1 {
 /* .g-nav li:not(:first-child){
   margin-left:20px;
 } */
+main{
+  background-color:rgba(120,254,224,1);
+}
 .skill-list{
   text-align:center;
 }
