@@ -19,7 +19,7 @@ h1 {
 .g-nav{
   text-align:center;
   list-style:none;
-  padding-bottom:20px;
+  padding: bottom 50px;
 }
 .g-nav li{
   margin-right:30px;
