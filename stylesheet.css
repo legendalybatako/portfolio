@@ -11,9 +11,10 @@ h1 {
 }
 .g-nav li{
   display:inline-block;
+  list-style:none;
 }
 .skill{
-  display:flex;
+  float:left;
 }
 .skill-icon {
   position:relative;
@@ -21,4 +22,10 @@ h1 {
 }
 .skill-icon p {
   z-index:10;
+}
+.feature{
+  clear: left;
+}
+.about{
+  clear: left;
 }
