@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  margin:10px auto;
 }
 
 body {
@@ -20,9 +21,6 @@ h1 {
 /* .g-nav li:not(:first-child){
   margin-left:20px;
 } */
-.skills{
-  text-align:center;
-}
 .skill-list{
   text-align:center;
 }
