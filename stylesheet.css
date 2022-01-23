@@ -29,14 +29,14 @@ a.btn-wrap:hover {
   color: #fff;
   background: #f56500;
 }
-.g-nav li{
+/* .g-nav li{
   display:inline-block;
   list-style:none;
   margin-right:30px;
-}
-.g-nav li:not(:first-child){
+} */
+/* .g-nav li:not(:first-child){
   margin-left:20px;
-}
+} */
 .skill-list{
   text-align:center;
 }
