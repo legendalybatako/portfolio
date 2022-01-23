@@ -12,6 +12,7 @@ header{
 }
 h1 {
   text-align: center;
+  font-size:40px;
 }
 .header-title{
   padding:50px;
@@ -20,6 +21,9 @@ h1 {
   text-align:center;
   list-style:none;
   padding-bottom: 50px;
+}
+h2{
+  font-size:30px;
 }
 .g-nav li{
   margin-right:30px;
@@ -54,11 +58,18 @@ h1 {
   text-align:center;
   clear: left;
   background-color:rgba(254,244,169,1);
+  padding:50px;
+}
+h3{
+  font-size:30px;
 }
 .about{
   clear: left;
   text-align:center;
   background-color:rgba(120,254,224,1);
+}
+h4{
+  font-size:40px;
 }
 footer{
   text-align:center;
