@@ -20,9 +20,20 @@ h1 {
   text-align:center;
 }
 .g-nav li{
+  margin-right:30px;
+}
+.btn{
   display:inline-block;
   list-style:none;
-  margin-right:30px;
+  opacity:0.8;
+  background-color:rgba(254,244,169,1);
+}
+.btn:hover{
+  opacity:1.0;
+}
+.btn-wrap{
+  margin:20px;
+  padding:10px;
 }
 .skill-list{
   text-align:center;
