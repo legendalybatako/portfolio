@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  margin:10px auto;
+  margin:0 auto;
 }
 
 body {
@@ -13,17 +13,30 @@ header{
 h1 {
   text-align: center;
 }
+.header-title{
+  padding:50px;
+}
 .g-nav{
   text-align:center;
+}
+.btn-wrap,
+a.btn-wrap {
+  color: #fff;
+  background-color: #eb6100;
+}
+.btn-wrap:hover,
+a.btn-wrap:hover {
+  color: #fff;
+  background: #f56500;
 }
 .g-nav li{
   display:inline-block;
   list-style:none;
-  border-bottom:none;
+  margin-right:30px;
 }
-/* .g-nav li:not(:first-child){
+.g-nav li:not(:first-child){
   margin-left:20px;
-} */
+}
 .skill-list{
   text-align:center;
 }
