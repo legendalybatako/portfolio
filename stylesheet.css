@@ -24,9 +24,6 @@ h1 {
 /* .g-nav li:not(:first-child){
   margin-left:20px;
 } */
-main{
-  background-color:rgba(120,254,224,1);
-}
 .skill-list{
   text-align:center;
 }
@@ -41,11 +38,14 @@ main{
 .feature{
   text-align:center;
   clear: left;
+  background-color:rgba(254,244,169,1);
 }
 .about{
   clear: left;
   text-align:center;
+  background-color:rgba(120,254,224,1);
 }
 footer{
   text-align:center;
+  background-color:rgba(75,194,197,1);
 }
