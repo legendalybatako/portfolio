@@ -15,6 +15,7 @@ h1 {
 .g-nav li{
   display:inline-block;
   list-style:none;
+  border-bottom:none;
 }
 /* .g-nav li:not(:first-child){
   margin-left:20px;
