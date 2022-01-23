@@ -9,10 +9,12 @@ body {
 h1 {
   text-align: center;
 }
+.g-nav{
+  text-align:center;
+}
 .g-nav li{
   display:inline-block;
   list-style:none;
-  text-align:center;
 }
 .g-nav li:not(:first-child){
   margin-left:10px;
