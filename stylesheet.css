@@ -29,6 +29,10 @@ h2{
   margin-right:30px;
   display:inline-block;
 }
+.g-nav a{
+  font-size:20px;
+  color:black;
+}
 .btn{
   opacity:0.8;
   background-color:rgba(254,244,169,1);
