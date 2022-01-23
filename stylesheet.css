@@ -19,10 +19,11 @@ h1 {
 .g-nav li:not(:first-child){
   margin-left:20px;
 }
-.skill{
-  float:left;
+.skill-list{
+  text-align:center;
 }
 .skill-icon {
+  float:left;
   position:relative;
   width:25%;
 }
@@ -30,8 +31,10 @@ h1 {
   z-index:10;
 }
 .feature{
+  text-align:center;
   clear: left;
 }
 .about{
   clear: left;
+  text-align:center;
 }
