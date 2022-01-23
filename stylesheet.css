@@ -40,11 +40,12 @@ h1 {
 }
 .skill-list{
   text-align:center;
+  margin:30px 0px;
 }
 .skill-icon {
   text-align:center;
   position:relative;
-  width:25%;
+  margin:50px 140px;
 }
 .skill-icon p {
   z-index:10;
