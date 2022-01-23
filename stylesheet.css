@@ -15,7 +15,6 @@ h1 {
 .g-nav li{
   display:inline-block;
   list-style:none;
-  margin-left:20px;
 }
 /* .g-nav li:not(:first-child){
   margin-left:20px;
@@ -31,7 +30,6 @@ h1 {
 }
 .skill-icon p {
   z-index:10;
-  padding-bottom:30px;
 }
 .feature{
   text-align:center;
