@@ -15,14 +15,16 @@ h1 {
 .g-nav li{
   display:inline-block;
   list-style:none;
-}
-.g-nav li:not(:first-child){
   margin-left:20px;
 }
+/* .g-nav li:not(:first-child){
+  margin-left:20px;
+} */
 .skill-list{
   text-align:center;
 }
 .skill-icon {
+  text-align:center;
   float:left;
   position:relative;
   width:25%;
