@@ -24,9 +24,6 @@ h1 {
   list-style:none;
   margin-right:30px;
 }
-.g-nav li:not(:first-child){
-  margin-left:20px;
-}
 .skill-list{
   text-align:center;
 }
