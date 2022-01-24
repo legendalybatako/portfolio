@@ -96,11 +96,11 @@ footer{
   .g-nav{
     text-align:left;
   }
-  .g-nav a{
-    font-size:15px;
-  }
   .g-nav li{
     margin-right:0px;
+  }
+  .g-nav a{
+    font-size:15px;
   }
   .skill-icon{
     margin:10px 20px;
