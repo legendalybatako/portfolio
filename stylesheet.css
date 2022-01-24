@@ -86,7 +86,7 @@ footer{
 }
 
 
-@media(max-width:670px){
+@media(max-width:480px){
   .header-title{
     padding:30px 0px;
   }
