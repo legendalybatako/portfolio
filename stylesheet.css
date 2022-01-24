@@ -87,4 +87,16 @@ footer{
 
 
 @media(max-width:670px){
+  .header-title{
+    padding:30px 0px;
+  }
+  .g-nav{
+    text-align:left;
+  }
+  .g-nav li{
+    margin-right:0px;
+  }
+  .skill-icon{
+    margin:10px 20px;
+  }
 }
